@@ -21,6 +21,7 @@ HTML5, CSS3, JavaScript e Next.js para desenvolvimento front-end e back-end efic
     
 </div>
 
+
 ## 📱 Redes Sociais:
 <div>
 <a href="https://www.instagram.com/isac11245/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -28,3 +29,5 @@ HTML5, CSS3, JavaScript e Next.js para desenvolvimento front-end e back-end efic
   <a href="https://www.youtube.com/@historialegaloficial7115" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://wakatime.com/@isac" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"></a>
 </div>
+## Estatística Github
+
